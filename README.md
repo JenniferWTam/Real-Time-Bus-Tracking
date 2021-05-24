@@ -5,7 +5,7 @@
 We used the MBTA bus data to determine stops between Harvard & MIT, adding animated markers on the map to highlight bus routes.
 
 ## Steps to Run
-Ensure you have the following files downloaded from this repository onto your local machine.
+Ensure you have the following files downloaded from this repository onto your local machine and saved into the same file directory.
 <ul>
   <li>index.html</li>
   <li>mapanimation.je</li>
