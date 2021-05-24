@@ -8,7 +8,7 @@ We used the MBTA bus data to determine stops between Harvard & MIT, adding anima
 Ensure you have the following files downloaded from this repository onto your local machine and saved into the same file directory.
 <ul>
   <li>index.html</li>
-  <li>mapanimation.je</li>
+  <li>mapanimation.js</li>
   <li>styles.css</li>
 </ul>
 Drag and drop the index.html into your web browser
