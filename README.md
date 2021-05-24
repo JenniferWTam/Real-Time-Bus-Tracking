@@ -12,6 +12,9 @@ Ensure you have the following files downloaded from this repository onto your lo
 </ul>
 Drag and drop the index.html into your web browser
 
+<i>You may also use this link to preview this repository</i> &middot; <a href="https://jenniferwtam.github.io/Real-Time-Bus-Tracking
+" target="__blank">Real-Time-Bus-Tracking</a>
+
 ## Future Improvements
 I would like to display the estimated arrival time of the busses to the subsequent stops. 
 
