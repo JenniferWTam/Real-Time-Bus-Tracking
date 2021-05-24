@@ -3,6 +3,7 @@
 ### Working with the DOM in JavaScript to Add Animation To Maps
 <img src= "Map.png" width='300'/>
 We used the MBTA bus data to determine stops between Harvard & MIT, adding animated markers on the map to highlight bus routes.
+
 ## Steps to Run
 Ensure you have the following files downloaded from this repository onto your local machine.
 <ul>
