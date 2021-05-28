@@ -22,7 +22,7 @@ I would like to display the estimated arrival time of the busses to the subseque
 ## License Information
 MIT License
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2021 John Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
